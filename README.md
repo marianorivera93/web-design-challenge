@@ -1,12 +1,6 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude)
 
 ## Background
-
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
-
-![Images/landingResize.png](Images/landingResize.png)
-
-### Before You Begin
 
 1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
 
@@ -59,72 +53,15 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 
 Ensure your repository has regular commits and a thorough README.md file
 
-### Considerations
 
-* You may use the [weather data](Resources/cities.csv) or choose another dataset. Alternatively, you may use the included [cities dataset](Resources/cities.csv) and pull the images from the [assets folder](Resources/assets).
-* You must use Bootstrap. This includes using the Bootstrap `navbar` component for the header on every page, the bootstrap table component for the data page, and the Bootstrap grid for responsiveness on the comparison page.
-* You must deploy your website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
-* Be sure to use a CSS media query for the navigation menu.
-* Be sure your website works at all window widths/sizes.
-* Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
+### Directions To Access Web Page
 
-### Screenshots
+To produce the webpage created in this repo, do the following:
 
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
-
-#### <a id="landing-page"></a>Landing page
-
-Large screen:
-
-![Landing page large screen](Images/landingResize.png)
-
-Small screen:
-
-![Landing page small screen](Images/landing-sm.png)
-￼
-
-#### <a id="comparisons-page"></a>Comparisons page
-
-Large screen:
-
-![comparison page large screen](Images/comparison-lg.png)
-
-Small screen:
-
-![comparison page small screen](Images/comparison-sm.png)
-
-#### <a id="data-page"></a>Data page
-
-Large screen:
-
-![data page large screen](Images/data-lg.png)
-
-
-Small screen:
-
-![data page small screen](Images/data-sm.png)
-
-#### <a id="visualization-pages"></a>Visualization pages
-
-You'll build four of these, one for each visualization. Here's an example of one:
-
-Large screen:
-
-![visualize page large screen](Images/visualize-lg.png)
-
-Small screen:
-
-![visualize page small screen](Images/visualize-sm.png)
-
-#### <a id="navigation-menu"></a>Navigation menu
-
-Large screen:
-![nav menu large screen](Images/nav-lg.png)
-
-Small screen:
-![nav menu small screen](Images/nav-sm.png)
-
-https://marianorivera93.github.io/web-design-challenge/
+Clone this repository to your computer
+Open the files in Visual Studio Code
+Open the index.html file with a live server
+Explore the website. Use the navigation bar to visit the pages created.
 - - -
 
 ## References
