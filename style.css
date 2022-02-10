@@ -1,4 +1,19 @@
 body {
-  background-color: #eee;
+  background-color: rgb(198, 202, 202);
+}
+
+img {
+  margin: 4pt;
+}
+
+h1 {
+  color:rgb(23, 104, 158);
+  font-family:serif;
+}
+
+h2 {
+  color: rgb(47, 218, 218);
+  font-style: normal;
+  background-color: rgb(186, 238, 234);
 
 }
