@@ -3,15 +3,18 @@ body {
 }
 
 img {
-  margin: 4pt;
+  margin: 10pt;
 }
 
 h1 {
+  font-size: 10px;
   color:rgb(23, 104, 158);
+  font-style: normal;
   font-family:serif;
 }
 
 h2 {
+  font-size: 10px;
   color: rgb(47, 218, 218);
   font-style: normal;
   background-color: rgb(186, 238, 234);
